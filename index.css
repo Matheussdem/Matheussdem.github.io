@@ -1,0 +1,48 @@
+body{
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    display: flex;
+}
+
+.container {
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+
+header img {
+width: 300px;
+height: 300px;
+border-radius: 10%;
+border: 5px solid rgb(255, 255, 255);
+}
+
+
+footer img {
+    width: 40px;
+    height: 40px;
+}
+
+footer a{
+margin: 20px;
+text-align: center;
+}
+
+h1{
+    color: rgb(15, 248, 105);
+}
+
+h2{
+    color: aliceblue;
+}
+
